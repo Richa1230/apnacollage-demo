@@ -2,4 +2,4 @@
 This is mmy first repo!
 <br>
 
-Author richa
+Author richa (sharma)
